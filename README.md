@@ -27,7 +27,7 @@
     
   </p>
 
-  <img align= "center" width="200" src="https://cdn.discordapp.com/attachments/1007682144899960845/1387466786860957966/2d92accdc77f74ad3949c6edb5b49686.gif?ex=685d72a3&is=685c2123&hm=eab7eccc226b209fc08a5935c1bfa479c861781501c8a3c57f1ac166ffb8d1ef&">
+  <img align= "center" width="200" src="https://cdn.discordapp.com/attachments/1253497023433408543/1391139103122260030/cypher-valorant.gif?ex=686acec0&is=68697d40&hm=81a1301d7ae0885a5c4b2d32f8b80a92d558939c7759b54e769edc52409e70ea&">
 
  <br/>
 
