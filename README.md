@@ -13,8 +13,8 @@
 
 <br>
 
-<p align="center">
- Me chamo Antonio Henrique e sou estudante de análise e desenvolvimento de sistemas, sempre tive interesse em tecnologia e resolvi focar na área de desenvovimento e no tempo livre to sempre jogando algo<br><br>
+<p align="center"> 
+Me chamo Antonio Henrique e sou estudante de Análise e Desenvolvimento de Sistemas. Sempre tive grande interesse por tecnologia e, ao longo do tempo, decidi direcionar meu foco para a área de desenvolvimento de software. Atualmente, estou em constante aprendizado e aprimoramento das minhas habilidades em programação. Nos meus momentos de lazer, gosto de explorar o mundo dos games, que também contribuíram para despertar minha curiosidade e paixão pela tecnologia.<br><br>
 </p>
 
 <details align="center">
