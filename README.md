@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1007682144899960845/1387218159567765556/aaaaaaaa-unscreen.gif?ex=685c8b16&is=685b3996&hm=64c3e629b36e308abbd497ef67b7f5a2354890fcde1c9ab652c45867f127eeee&](https://tenor.com/pt-BR/view/cypher-secrets-valorant-i-cant-see-it-dont-look-at-it-its-confidential-gif-26098357)" width="200">
+  <img src="https://cdn.discordapp.com/attachments/1253497023433408543/1391138676402032743/cypher-secrets-valorant.gif?ex=686ace5a&is=68697cda&hm=ddaf131e3b36abf6be21183415a424fd1bd2df2b885b8a26e9ebde22c70ca1ef&" width="200">
 </div>
 
 <br>
